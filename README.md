@@ -1,7 +1,7 @@
 # Hospital Patient Management System
 
 ## Project Overview
-A simple C programming project to manage hospital patient records using a menu-driven system.
+The Hospital Patient Management System is a simple C programming project designed to manage basic patient information in a hospital. It allows users to add new patient records and display existing records through a menu-driven interface.
 
 ## Features
 - Add new patient details
