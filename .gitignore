@@ -1,0 +1,13 @@
+
+# Compiled C program files
+*.exe
+*.out
+*.o
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
